@@ -5,3 +5,7 @@
 #Image Files
 *.png
 *.eps
+
+
+#Output Files
+*.pdf
